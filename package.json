@@ -19,7 +19,11 @@
     "react-dom": "^17.0.1"
   },
   "devDependencies": {
-    "prettier": "2.2.1"
+    "autoprefixer": "^10.2.5",
+    "gatsby-plugin-postcss": "^4.4.0",
+    "postcss": "^8.2.13",
+    "prettier": "2.2.1",
+    "tailwindcss": "^2.1.2"
   },
   "repository": {
     "type": "git",
